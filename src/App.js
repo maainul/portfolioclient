@@ -1,10 +1,15 @@
 import './App.css';
-import {HomePage} from "./HomePage";
+
+import axios from 'axios';
+import { MyRoutes } from './MyRoutes';
+
+
+axios.defaults.withCredentials = true
 
 function App() {
   return (
     <div className="App">
-      <HomePage />
+      <MyRoutes />
     </div>
   );
 }
