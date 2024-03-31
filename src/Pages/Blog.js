@@ -273,10 +273,6 @@ export const Blog = () => {
                         </div>
 
                     </div>
-
-                </section>
-                <section className='hidden bg-white lg:block md:w-96 p-8'>
-                    <h2>afa</h2>
                 </section>
             </div>
             <Footer />

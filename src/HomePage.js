@@ -26,8 +26,6 @@ export const HomePage =() => {
                     hover:bg-brightRedLight cursor-pointer md:block">
                         Get Started
                     </a>
-                {/*-----Hamburger Icon ------*/}
-
                 </div>
 
 
@@ -201,22 +199,3 @@ export const HomePage =() => {
         </div>
     );
 }
-
-/*
- <div className="rounded-l-full bg-brightRedSupLight md:bg-transparent">
-                                <div className="flex items-center space-x-2">
-                                    <div className="px-4 py-2 text-white rounded-full md:py-1 bg-brightRed font-bold">
-                                        01
-                                    </div>
-                                    <h3 className="text-base font-bold md:mb-4 md:hidden">Track Company-wide
-                                        Progress</h3>
-                                </div>
-                            </div>
-                            <div>
-                                <h3 className="hidden mb-4 text-lg font-bold md:block">Track Company-wide Progress</h3>
-                            </div>
-                            <p className="text-darkGrayishBlue">
-                                See how day-to-day tasks fit into the wider vision.Go from tracking progress at the
-                                milestone level all the way done to the smallest details
-                            </p>
- */

@@ -11,7 +11,7 @@ const BlogSidebar = () => {
     return (
         <div>
             {/* Left Side */}
-            <section className='hidden md:block md:w-64 lg:w-72 text-sm bg-white p-8 space-y-6'>
+            <section className='hidden md:block md:w-64 lg:w-72 text-sm bg-white p-8 space-y-6 h-full'>
                 <div>
                     <Logo />
                 </div>
