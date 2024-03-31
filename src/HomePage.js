@@ -23,8 +23,8 @@ export const HomePage =() => {
                         <a href="#" className="hover:text-darkGrayishBlue">Blog</a>
                     </div>
                 {/*------Button-------*/}
-                    <Link to="/path" className="hidden p-3 px-6 pt-2 text-white baseline bg-brightRed rounded-full font-semibold
-                    hover:bg-brightRedLight cursor-pointer md:block">Get Started</Link>
+                    <button to="/path" className="hidden p-3 px-6 pt-2 text-white baseline bg-brightRed rounded-full font-semibold
+                    hover:bg-brightRedLight cursor-pointer md:block">Get Started</button>
                 </div>
 
 

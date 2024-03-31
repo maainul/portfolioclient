@@ -25,10 +25,10 @@ export const HomePage = () => {
                         <Link to={"/blog"} className="hover:text-darkGrayishBlue">Blog</Link>
                     </div>
                     {/*------Button-------*/}
-                    <a className="hidden p-3 px-6 pt-2 text-white baseline bg-brightRed rounded-full font-semibold
+                    <Link  to={"/about"} className="hidden p-3 px-6 pt-2 text-white baseline bg-brightRed rounded-full font-semibold
                     hover:bg-brightRedLight cursor-pointer md:block">
                         Get Started
-                    </a>
+                    </Link>
                 </div>
             </section>
 
@@ -49,11 +49,11 @@ export const HomePage = () => {
                         </p>
                         {/*---- Button -----*/}
                         <div className="flex justify-center md:justify-start">
-                            <a
-                                href="#"
+                            <Link
+                                to={"/about"}
                                 className="p-3 px-6 pt-2 text-white baseline bg-brightRed rounded-full font-semibold hover:bg-brightRedLight cursor-pointer md:block">
                                 Get Started
-                            </a>
+                            </Link>
                         </div>
                     </div>
                     {/*----- IMAGES --------*/}
@@ -186,11 +186,11 @@ export const HomePage = () => {
                     <h2 className="text-5xl font-bold leading-tight text-center text-white md:text-4xl md:max-w-xl md:text-left"> Simplify how your works today</h2>
                     {/*---- Button -----*/}
                     <div className="flex justify-center md:justify-start">
-                        <a
-                            href="#"
+                        <Link
+                            to={"/about"}
                             className="p-3 px-6 pt-2 text-brightRed bg-white rounded-full shadow-2xl baseline hover:bg-gray-100 font-bold">
                             Get Started
-                        </a>
+                        </Link>
                     </div>
                 </div>
             </section>
