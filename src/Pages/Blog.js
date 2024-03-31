@@ -51,7 +51,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
 
@@ -76,7 +76,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -100,7 +100,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -124,7 +124,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -148,7 +148,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -172,7 +172,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -196,7 +196,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption'  className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -220,7 +220,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -244,7 +244,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
                         {/* 1 */}
@@ -268,7 +268,7 @@ export const Blog = () => {
                             </div>
                             {/* image */}
                             <div className='w-44 overflow-hidden rounded-r-md justify-center items-center flex bg-gray-300 '>
-                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' className='h-full' />
+                                <img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2023/01/html-vs-html5.webp' alt='desciption' className='h-full' />
                             </div>
                         </div>
 
